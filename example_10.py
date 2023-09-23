@@ -1,0 +1,6 @@
+n = input()
+t = str(input())
+print("Группа №", t[0], ".", sep="")
+print(t[2], ".", " ", n, ".", sep="")
+print("Шкавчик:", " ", int(t), ".", sep="")
+print("Кроватка:", " ", t[1], ".", sep="")
